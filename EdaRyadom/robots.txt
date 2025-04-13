@@ -1,0 +1,23 @@
+User-agent: *
+
+Allow: /
+
+Allow: /catalog.php
+Allow: /contacts.php
+
+Disallow: /assets/
+Allow: /assets/img/products/
+
+Disallow: /plugins/
+
+Disallow: /index.html
+Disallow: /googleddd02a56c951c7c5.html
+
+Allow: /checkout/sign_in.php
+Allow: /checkout/sign_up.php
+Disallow: /checkout/
+
+Clean-param: search /catalog
+
+Sitemap: https://edaryadom.free.nf/sitemap.xml
+Host: https://edaryadom.free.nf

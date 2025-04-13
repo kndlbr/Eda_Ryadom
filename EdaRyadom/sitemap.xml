@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+    <url>
+        <loc>https://edaryadom.free.nf/</loc>
+        <lastmod>2025-03-30T15:32:00+03:00</lastmod>
+        <priority>1.0</priority>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://edaryadom.free.nf/home-page</loc>
+        <lastmod>2025-03-30T15:32:00+03:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://edaryadom.free.nf/catalog</loc>
+        <lastmod>2025-03-30T15:33:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://edaryadom.free.nf/contacts</loc>
+        <lastmod>2025-03-30T15:33:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://edaryadom.free.nf/checkout/sign_in</loc>
+        <lastmod>2025-03-30T15:34:00+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://edaryadom.free.nf/checkout/sign_up</loc>
+        <lastmod>2025-03-30T15:35:00+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
